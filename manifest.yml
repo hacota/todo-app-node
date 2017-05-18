@@ -1,0 +1,7 @@
+applications:
+- name:      rlive-pwp-m4-todo
+  host:      rlive-pwp-m4-todo
+  memory:    128M
+  services:
+  - Cloudant NoSQL DB-ql
+ 
